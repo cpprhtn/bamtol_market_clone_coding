@@ -14,3 +14,7 @@ flutter pub get
 ```
 flutter run
 ```
+
+```
+flutter pub cache clean
+```
